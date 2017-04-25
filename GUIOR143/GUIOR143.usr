@@ -16,6 +16,7 @@ StartStamps=Action1\Script.mts
 Login=Action2\Script.mts
 Close=Action8\Script.mts
 Open Packages=Action9\Script.mts
+Enter Delivery Address=Action10\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -72,3 +73,6 @@ Action8\ObjectRepository.bdb=
 Action9\Script.mts=
 Action9\Resource.mtr=
 Action9\ObjectRepository.bdb=
+Action10\Script.mts=
+Action10\Resource.mtr=
+Action10\ObjectRepository.bdb=
