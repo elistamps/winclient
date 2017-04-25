@@ -15,6 +15,7 @@ Action0=Action0\Script.mts
 StartStamps=Action1\Script.mts
 Login=Action2\Script.mts
 Close=Action8\Script.mts
+Open Packages=Action9\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -68,3 +69,6 @@ Action2\ObjectRepository.bdb=
 Action8\Script.mts=
 Action8\Resource.mtr=
 Action8\ObjectRepository.bdb=
+Action9\Script.mts=
+Action9\Resource.mtr=
+Action9\ObjectRepository.bdb=
